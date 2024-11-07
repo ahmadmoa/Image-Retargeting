@@ -66,3 +66,22 @@ Future plans to enhance the project include:
   - Training a neural network to simulate seam carving, aiming for improved accuracy.
 - **VR Integration**:
   - Developing a VR environment for real-time visual adjustments to aid RP patients in navigation.
+
+## User Interface
+
+Below are screenshots of the system’s graphical user interface, showcasing various pages available in the Image Retargeting application.
+
+![Main Page](presentation/1.png)
+*Main page of the application, serving as the landing interface for users.*
+
+![Image Retarget Page](presentation/2.png)
+*Image retargeting page, where users can load images and initiate the retargeting process.*
+
+![Video Retarget Page](presentation/3.png)
+*Video retargeting page, allowing users to apply retargeting algorithms to video files.*
+
+![Our Team](presentation/4.png)
+*About Us section, presenting the team behind the Image Retargeting project.*
+
+
+
